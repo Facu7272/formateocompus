@@ -1,0 +1,22 @@
+Chrome
+Firefox
+Visual Studio Code
+Visual Studio
+XAMPP
+Logisim-evolution
+Cisco Packet Tracer
+PSeInt
+Python
+Java
+Godot
+Blender
+WinRar
+Wireshark
+Eclipse IDE
+Intellij IDEA
+CodeBlocks
+Node.js
+Git
+HeidiSQL
+Arduino IDE
+Processing
